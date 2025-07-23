@@ -31,7 +31,7 @@ The goal is to practice **real-time image processing**, enhance coding organizat
 ---
 
 ## **Technologies Used**
-- **Python 3.x**
+- **Python 3.11.0**
 - **OpenCV** for image and video processing.
 - **Matplotlib** for visualization.
 - **NumPy** for numerical operations.
@@ -42,3 +42,12 @@ The goal is to practice **real-time image processing**, enhance coding organizat
 1. Install dependencies:
    ```bash
    pip install -r requirements.txt
+2. Run the Notebook:
+- Open the Jupyter notebook in VS Code or Jupyter Lab
+- Execute each cell step by step.
+
+3. Output Files:
+- Processed frames will be saved automatically in the output_frames/ directory.
+- Image manipulations (rotation, cropping, flipping) will be stored in the same folder.
+
+
